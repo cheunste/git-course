@@ -4,4 +4,4 @@ this is a third line;
 this is the fourth line;
 
 
-The lazy brown dog jumps over the house;
+The lazy brown chicken jumps over the house;
